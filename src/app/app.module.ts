@@ -7,7 +7,6 @@ import { NavbarComponent } from './sharedPage/navbar/navbar.component';
 import { FooterComponent } from './sharedPage/footer/footer.component';
 import { HomeComponent } from './pages/home/home.component';
 import { MenuComponent } from './pages/menu/menu.component';
-import { AbotComponent } from './pages/abot/abot.component';
 import { AboutComponent } from './pages/about/about.component';
 import { ContactComponent } from './pages/contact/contact.component';
 
@@ -18,7 +17,6 @@ import { ContactComponent } from './pages/contact/contact.component';
     FooterComponent,
     HomeComponent,
     MenuComponent,
-    AbotComponent,
     AboutComponent,
     ContactComponent
   ],

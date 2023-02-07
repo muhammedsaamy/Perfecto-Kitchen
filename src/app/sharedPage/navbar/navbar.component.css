@@ -1,0 +1,10 @@
+.active-link{
+  font-weight: bolder;
+}
+
+.log:hover{
+  cursor: pointer;
+  background-color: rgb(95, 129, 129);
+  border-radius: 30px;
+}
+
