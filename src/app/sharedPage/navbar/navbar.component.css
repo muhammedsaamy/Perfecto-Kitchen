@@ -1,5 +1,6 @@
 .active-link{
   font-weight: bolder;
+  color: var(--primary-color);
 }
 
 .log:hover{
