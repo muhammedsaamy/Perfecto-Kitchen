@@ -75,3 +75,9 @@
   padding: 10px;
   border-radius: 5px;
 }
+
+.viewMoreBtn:hover{
+  color: var(--primary-color);
+  background-color: #000;
+  cursor: pointer;
+}
