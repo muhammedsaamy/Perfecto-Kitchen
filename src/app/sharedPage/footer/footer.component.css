@@ -6,3 +6,8 @@ a:hover{
 color: #fff !important;
   font-weight: bold;
 }
+
+.bg-footer{
+  background-color: black;
+}
+

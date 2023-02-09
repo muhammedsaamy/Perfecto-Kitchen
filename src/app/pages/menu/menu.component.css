@@ -15,6 +15,12 @@
   font-weight: bold;
 }
 
+.highlight{
+  color: var(--primary-color);
+  font-weight: bold;
+  font-style: italic;
+}
+
 .buyBtn{
   text-decoration: none;
   font-size: 18px;
